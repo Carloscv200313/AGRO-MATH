@@ -6,7 +6,6 @@ export const Navbar = () => {
     const [isOpen, setIsOpen] = useState(false);
     const rutas = [
         { ruta: "/", nombre: "Inicio" },
-        { ruta: "somos", nombre: "¿Quienes somos?" },
         { ruta: "proceso", nombre: "Proceso" },
         { ruta: "consejos", nombre: "Consejos" },
     ]

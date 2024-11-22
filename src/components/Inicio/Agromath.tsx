@@ -19,7 +19,7 @@ export const Agromath = () => {
                     alt="Imagen de fondo"
                     className="w-auto md:h-[20vh] h-[15vh] "
                 />
-                <h1 className="text-black font-bold md:text-9xl text-4xl">AGROMATH</h1>
+                <h1 className="text-black font-extrabold md:text-9xl text-4xl font-dropkicker ">AGROMATH</h1>
             </div>
         </div>
     )
