@@ -23,8 +23,9 @@ const CalculoMetodoEuler = () => {
         }
 
         // Establecer los resultados en el estado
+        setN(0)
         setResultados(resultadosCalculados);
-        setC_euler(C_euler_local); // Actualizar el valor final de C_euler
+        setC_euler(15); // Actualizar el valor final de C_euler
     };
 
     return (
