@@ -4,7 +4,7 @@ export const Crecimiento = () => {
     return (
         <div className="flex items-center justify-center bg-transparent p-10  rounded-3xl">
             <div
-                className="h-full md:w-auto w-full bg-[#24233b] rounded-lg shadow-[0px_10px_10px_rgb(73,70,92)] 
+                className="md:w-auto w-full bg-[#24233b] rounded-lg shadow-[0px_10px_10px_rgb(73,70,92)] 
         transition-transform duration-500 hover:-translate-y-2 hover:shadow-[0px_10px_10px_rgb(0,0,0)]"
             >
                 <div className="flex items-center pl-10 pt-4">
